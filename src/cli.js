@@ -1,10 +1,6 @@
-const bip39 = require('bip39');
+const bip39 = require("bip39");
 
-import {
-  DEFAULT_COUNT,
-  parseCount,
-  convertCountToStrength,
-} from './util.js';
+import { DEFAULT_COUNT, parseCount, convertCountToStrength } from "./util.js";
 
 export function cli(args) {
   const countStr = args && args[2];

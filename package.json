@@ -10,11 +10,11 @@
     "type": "git",
     "url": "git@github.com:itinance/mnemonics.git"
   },
-  "homepage": "https://github.com/itinance/mnemonics",  
+  "homepage": "https://github.com/itinance/mnemonics",
   "files": [
     "bin/",
     "src/"
-  ],  
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
